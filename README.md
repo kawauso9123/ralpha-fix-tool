@@ -1,4 +1,4 @@
-# 🧯 RalphaPlus64 SafeLoader
+# 🧯 RalphaPlus SafeLoader
 ❗注意：初期設定では `D:\展開` がスキャン対象フォルダになっています。必要に応じて `fix_image_extensions_gui.py` の冒頭で変更してください。
 ## ✅ 概要
 
