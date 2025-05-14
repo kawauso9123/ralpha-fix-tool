@@ -1,4 +1,3 @@
-# ralpha-fix-tool
 # 🧯 RalphaPlus64 SafeLoader
 
 ## ✅ 概要
